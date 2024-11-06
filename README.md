@@ -34,7 +34,7 @@ Welcome to the **Dice Game Application**! This is a fun, interactive game where 
 ---
 
 ## Technologies Used
-- **React**: For building the user interface and managing the state of the game.
+- **React**: This is for building the user interface and managing the state of the game.
 - **Tailwind CSS**: For responsive design and styling.
 - **JavaScript**: For handling the game logic, including the random number generation for the dice roll.
 
@@ -73,7 +73,6 @@ We welcome contributions to improve the Dice Game! To contribute:
 5. Commit your changes with clear messages explaining the updates.
 6. Push your changes and open a pull request.
 
-Please ensure that any code submitted follows the existing conventions and passes tests (if applicable).
 
 ---
 
